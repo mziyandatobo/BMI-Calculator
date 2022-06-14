@@ -1,4 +1,3 @@
-
 let heightInput = document.querySelector(".height-input-field");
 let weightInput = document.querySelector(".weight-input-field");
 let calculateButton = document.querySelector(".calculate");
